@@ -23,7 +23,7 @@ Backend: https://github.com/ViniNepo/backend-challenge
 
 Link do video de teste do sistema se econtra nesse link do drive: https://drive.google.com/drive/folders/16LqA-t30uy9Qoaeh6XpZZ8yHZ04lv4Pq?usp=sharing
 
-Como foi o teste é feio em ambiente sandbox do PayPal deixei configurado por padrão hardcoded o clientID e secret para que seja feita a requisição com sucesso. Outro ponto importante é que para que vocês possam abrir
-o link para que seja possível ver o valor a pagar é preciso ter uma conta, porém criei uma conta secundária e coloquei como o email que irá fazer o pagamento.
+Como foi o teste é feio em ambiente sandbox do PayPal deixei configurado por padrão hardcoded o clientID e secret para que seja feita a requisição com sucesso. Outro ponto importante é que para abrir o link
+e ser possível ver o valor a pagar é preciso ter uma conta, porém criei uma conta secundária e coloquei como o email que irá fazer o pagamento.
 
 Obs: Para isso vai ser preciso informar a senha que vocês podem pegar entrando em contato comigo pelo LinkedIn ou então criando uma conta sandbox própria e alterando o email no código.
