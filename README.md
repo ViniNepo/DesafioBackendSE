@@ -10,7 +10,8 @@ Como requisito mínimo precisamos ter o NodeJs na versão 20 (utilizada no proje
 
 Feito isso o frontend está pronto para rodar usando o ElectronJs com o comando `npm run electron .`. Importante que o terminal esteja na pasta por o `.` irá buscar o electron dentro do diretório atual.
 
-Para o backend precisamos ter o Java na sua versão 17 (versão utilizada no projeto). Para rodar o projeto basta rodar o arquivo raiz que se encontra dentro do módulo `infrastructure`.
+Para o backend precisamos ter o Java na sua versão 17 (versão utilizada no projeto). Para rodar o projeto basta rodar o arquivo raiz que se encontra dentro do módulo `infrastructure`. Além disso, também tem uma collection
+do Postman na raiz do projeto.
 
 ### Links dos repositórios git:
 
